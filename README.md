@@ -12,4 +12,3 @@ ___
 ![alt tag](https://raw.githubusercontent.com/azamatsmith/hackernews-reader/master/images/hacker_n.gif)
 ___
 
-![alt tag](https://raw.githubusercontent.com/azamatsmith/hackernews-reader/master/images/hacker_news.JPG)
