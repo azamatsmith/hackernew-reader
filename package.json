@@ -1,0 +1,27 @@
+{
+  "name": "node-hn-reader",
+  "version": "1.0.0",
+  "description": "Node based hacker news reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hacker",
+    "news",
+    "nodejs",
+    "reader"
+  ],
+  "author": "Matthew Smith",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "chalk": "^1.1.3",
+    "clear": "0.0.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^2.0.0",
+    "lodash": "^4.17.2",
+    "open": "0.0.5"
+  }
+}
